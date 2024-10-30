@@ -2,4 +2,5 @@
 Вторая строка main
 Первая строка feature-rebase
 Вторая строка feature-rebase
+Третья строка feature-rebase
 
